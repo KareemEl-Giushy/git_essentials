@@ -37,5 +37,5 @@ print(f"Filesize of {poem}: {size}")
 timestamp = os.path.getmtime(poem)
 modified = datetime.datetime.fromtimestamp(timestamp)
 
-# remove a file given its name
 print("mohee is here..")
+print("Kareem is dead...")
