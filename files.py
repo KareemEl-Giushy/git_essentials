@@ -36,6 +36,7 @@ print(f"Filesize of {poem}: {size}")
 # Get the last time the file was modified
 timestamp = os.path.getmtime(poem)
 modified = datetime.datetime.fromtimestamp(timestamp)
-print(f"{poem} was last modified at: {modified}")
 
-# remove a file given its name
+print("mohee is here..")
+print("Kareem is dead...")
+print("they are watching movie right now in workshop space")
