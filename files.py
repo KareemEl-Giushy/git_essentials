@@ -39,4 +39,3 @@ modified = datetime.datetime.fromtimestamp(timestamp)
 print(f"{poem} was last modified at: {modified}")
 
 # remove a file given its name
-os.remove("file.txt")

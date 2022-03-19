@@ -2,6 +2,7 @@ filenames = ["program.c", "stdio.hpp", "sample.hpp", "a.out", "math.hpp", "hpp.o
 # Generate newfilenames as a list containing the new filenames
 # using as many lines of code as your chosen method requires.
 
+print("Greetings!")
 
 def remove_hpp(filename: str):
     if filename.endswith(".hpp"):
